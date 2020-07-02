@@ -38,5 +38,4 @@ var DCMovieData = [
     Movie(movieName: "Aquaman", movieReleaseDate: 2018, actors: ["Jason Momoa","Amber Heard","Willem Dafoe"], rating: 7.0, pgRating: "PG-13"),
     Movie(movieName: "Shazam", movieReleaseDate: 2019, actors: ["Zachary Levi","Mark Strong","Asher Angel"], rating: 7.1, pgRating: "PG-13"),
     Movie(movieName: "Man of Steel", movieReleaseDate: 2013, actors: ["Henry Cavill","Amy Adams","Richard Schiff"], rating: 7.0, pgRating: "PG-13")
-
 ]
